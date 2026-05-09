@@ -1,3 +1,9 @@
+#Collect one number from each player
+
+#Use nested if-else to compare both inputs
+
+#print result based on the conditions
+
 player_one = input("Player 1, enter Rock, Paper, or Scissors: ").lower()
 player_two = input("Player 2, enter Rock, Paper, or Scissors: ").lower()
 

@@ -1,3 +1,13 @@
+#Collect the two numbers for the calculation
+
+#Collect the operator to be used
+
+#use conditionals to determine the input
+
+#print the result based on the input
+
+
+
 print("*" * 66)
 print(" SIMPLE CALC ")
 print("*" * 66)
@@ -27,5 +37,5 @@ elif operator == "**":
 elif operator == "%":
     print(f"Result: {firstnumber % secondnumber}")
 else:
-    print("Invalid operatorerator.")
+    print("Invalid operator.")
 

@@ -1,3 +1,9 @@
+#Collect the age
+
+#Check use conditions to make the age reach the requirement
+
+#print the result based on the condition
+
 age = int(input("Enter your age: "))
 
 if (age < 5):

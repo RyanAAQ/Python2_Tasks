@@ -1,3 +1,9 @@
+#Collect the password
+
+#use the len() to check length of password
+
+#use conditionals to check the password length
+
 password = input("Enter your password: ")
 
 if (len(password) <= 6):

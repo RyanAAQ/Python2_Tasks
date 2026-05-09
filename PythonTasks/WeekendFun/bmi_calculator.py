@@ -1,3 +1,11 @@
+#Collect the weight and height
+
+#Calculate for the bmi
+
+#use the result in conditionals
+
+#print the result based on the conditionals
+
 weight = float(input("Enter weight in kg: "))
 height = float(input("Enter height in meters: "))
 

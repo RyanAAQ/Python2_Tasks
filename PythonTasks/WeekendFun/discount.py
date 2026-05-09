@@ -1,3 +1,9 @@
+# Collect total bill and promo code
+
+# check if the bill is greater than 1000 and if the user is a member
+
+#print the result depending on the input
+
 total_bill = int(input("Enter the total bill: "))
 is_member = input("Are you a member (Yes or No): ").lower()
 

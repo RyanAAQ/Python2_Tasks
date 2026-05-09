@@ -1,3 +1,9 @@
+#Collect two numbers
+
+#use conditionals to check if the numbers meet the requirements
+
+#print results based on conditions
+
 number_one = int(input("Enter X: "))
 number_two = int(input("Enter Y: "))
 
